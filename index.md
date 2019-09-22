@@ -1,22 +1,24 @@
-## Welcome to hafidamrullahf.github.io Pages
+# Welcome to hafidamrullahf.github.io
 
-You can use the [editor on GitHub](https://github.com/hafidamrullahf/hafidamrullahf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Name: Hafid Amrullah Firdaus
+Date of Birth: September 6th, 1993
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Technical Skills
+Some Technical Skills I Currently Have:
+## Programming Skills
+I am passionate all about programming, it's like build something from nothing, and right now i really enjoying to learn any programming languages
+### Python
+Simple Coding I'd have made:
+'''markdown'''
+- Pascal Number [Link will be posted later for all codes]
+- Prime Factor
+- String Compression
+- Numeric translation to Indonesian Languages
+- IP address search and validation
+- Numeric Base Translation (Decimal to any base(digits(including Hex and other lib),ascii_letters,punctuation, and made-up base))
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
